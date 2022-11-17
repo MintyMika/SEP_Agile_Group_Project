@@ -11,9 +11,9 @@ An:
   2. Do: Work on user story 6 first. By next tuesday, I should have at least 70% of the user story done.
   3. Blockers: 	I'm having a lot of tests and projects before and right after thanksgiving and I'm sick
 Hunter:
-  1. Did:
-  2. Do:
-  3. Blockers:
+  1. Did: I selected multiple user stories with their corresponding confirmations for this sprint
+  2. Do: I will begin working on adding the functionality add ingredients from a recipe to a shopping list
+  3. Blockers: Nothing physically. However, I will need to refresh my knowledge on PHP and Javascript.
 Stephen:
   1. Did:
   2. Do:
