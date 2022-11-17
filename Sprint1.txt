@@ -15,3 +15,10 @@ User Story 6: As a customer who likes to try different cuisines, I would like to
 		Estimated time: 1 week
 		Confirmation: There should be sections buttons in the website to direct user to specific 
 		category of recipes. There should be correct recipes of specific category in one section.
+Hunter Hintz
+User story 1a: As a shopper, I want to be able to add the necessary ingredients to a shopping list.
+	Expected Duration: 2 week
+	Confirmation: When the user selects a recipe, all the ingredients pertaining to the recipe get added to the shopping list, and adds quantity to items 		already added.
+User Story 5: As a customer, I would like to remove items I already had from a recipe before converting it to a shopping list to avoid buying stuff I have already had.
+	Expected Duration: 1 week
+	Confirmation: When the user selects a recipe that they want to shop for, each ingredient has a checkbox that they can click on. If the ingredient is 		unchecked, that ingredient is removed from the finalized shopping list.
