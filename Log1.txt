@@ -15,6 +15,6 @@ Hunter:
   2. Do: I will begin working on adding the functionality add ingredients from a recipe to a shopping list
   3. Blockers: Nothing physically. However, I will need to refresh my knowledge on PHP and Javascript.
 Stephen:
-  1. Did:
-  2. Do:
-  3. Blockers:
+  1. Did:Chose user stories, wrote confirmation requirements
+  2. Do:I will begin database documentation in making a UML diagram.
+  3. Blockers: None. 
